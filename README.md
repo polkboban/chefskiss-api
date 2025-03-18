@@ -52,17 +52,5 @@ AI Recipe Recommender is a smart application that suggests recipes based on ingr
 2. Click "Find Recipes" to get AI-generated recipe suggestions.
 3. Choose a recipe and follow the provided steps.
 
-## Contribution
-Contributions are welcome! Follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`.
-3. Make your changes and commit: `git commit -m "Added new feature"`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a Pull Request.
 
-## Contact
-For any inquiries, reach out to [your email] or create an issue on the repository.
-
----
-Happy Cooking! 🍽️
 
