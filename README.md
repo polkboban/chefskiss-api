@@ -25,8 +25,8 @@ AI Recipe Recommender is a smart application that suggests recipes based on ingr
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/polkboban/chefapi.git
-   cd chefapi
+   git clone https://github.com/polkboban/chefskiss-api.git
+   cd chefskiss-api
    ```
 2. Install dependencies:
    ```sh
