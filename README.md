@@ -13,13 +13,11 @@ AI Recipe Recommender is a smart application that suggests recipes based on ingr
 ## Tech Stack
 - **Frontend**: React 
 - **Backend**: Node.js with Express (or Flask/Django)
-- **Database**: MongoDB / PostgreSQL / Supabase
 - **AI Model**: HuggingFace model
 
 ## Installation
 ### Prerequisites
 - Node.js installed
-- MongoDB/PostgreSQL set up
 - API keys for AI model (if applicable)
 
 ### Steps
@@ -36,8 +34,6 @@ AI Recipe Recommender is a smart application that suggests recipes based on ingr
    ```sh
    cp .env.example .env
    ```
-   - Configure database connection
-   - Add AI API keys
 4. Start the application:
    ```sh
    npm run dev  # or yarn dev
