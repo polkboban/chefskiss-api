@@ -8,7 +8,7 @@ export default function Main(){
     const [ingredients, setIngredients]=useState([
         "eggs",
         "flour",
-        "sugar",
+        "starch",
         "butter",
     ])
 
